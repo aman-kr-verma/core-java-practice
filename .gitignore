@@ -1,0 +1,6 @@
+*.properties
+*.xml
+*.iml
+*.jar
+*.cmd
+*.class
